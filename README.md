@@ -16,7 +16,8 @@ CampGrounds is a full-stack web application that allows users to create, review,
 - **Authentication**: Passport.js  
 
 ## 📷 See for yourself
-![YelpCamp Screenshot](https://your-image-link.com)  
+![image](https://github.com/user-attachments/assets/7afd7cb8-d793-41b1-9ea7-229536b30270)
+
 
 ## 🚀 Installation  
 1. Clone the repository
