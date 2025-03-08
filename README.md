@@ -23,12 +23,17 @@ CampGrounds is a full-stack web application that allows users to create, review,
    ```sh
    git clone https://github.com/yourusername/yelpcamp.git
    cd yelpcamp
-2.npm install
+2.Install dependencies
+```sh
+npm install
 3.Set up .env file with:
+```sh
 CLOUDINARY_CLOUD_NAME=your_cloudinary_name
 CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
 MAPBOX_TOKEN=your_mapbox_token
 DATABASE_URL=your_mongo_db_url
-4.node app.js
+4.Run
+```sh
+node app.js
 
